@@ -17,7 +17,7 @@
         Parents:JOseph Mbuvi Mukola<br/>
                 Christine Nduku Matheka<br/>
         Home county: Machakos<br/>
-    <img class="thumbnai" src="
+    <img class="thumbnai" src="https://github.com/mbuvitheresia1-rgb/clarefaith/blob/main/20251017_122825.jpg">
     <img class="thumbnail" src="
     <img class="thumbnail" src="
 
