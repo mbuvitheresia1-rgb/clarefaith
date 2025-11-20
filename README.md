@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Theresia Kamwethya Mbuvi</title>
-    <meta name="author" content="Theresia Faith Kamwethya Mbuvi">
-    <meta name="email" content="mbuvitheresia1@gmail.com">
-    <meta name="telephone" content="+25476952895
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Theresia Faith Kamwethya Mbuvi",
-      "email": "mailto:mbuvitheresia1@gmail.com",
-      "telephone": "+254769528955"
-    }
-    </script>
-</head>
-<body>
+
     <h1>ABOUT ME</h1>
     <p>My name is Theresia Faith Kamwethya Mbuvi <br/>
         I am priviledged to be a only girl in a family of four  children.<br/>
@@ -36,9 +17,9 @@
         Parents:JOseph Mbuvi Mukola<br/>
                 Christine Nduku Matheka<br/>
         Home county: Machakos<br/>
-    <img class="thumbnail" src="C:\Users\Administrator\Desktop\clare faith\20251017_122825.jpg" alt="photo 1"/>
-    <img class="thumbnail" src="C:\Users\Administrator\Desktop\clare faith\Screenshot_20251106-075458_YouTube.jpg" alt="photo 2"/>
-    <img class="thumbnail" src="C:\Users\Administrator\Desktop\clare faith\meru university.jpg" alt="meru university"/>
+    <img class="thumbnai" src="
+    <img class="thumbnail" src="
+    <img class="thumbnail" src="
 
     </p>
     <h2>SKILLS GAINED</h2>
