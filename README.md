@@ -18,7 +18,7 @@
                 Christine Nduku Matheka<br/>
         Home county: Machakos<br/>
     <img class="thumbnai" src="https://github.com/mbuvitheresia1-rgb/clarefaith/blob/main/20251017_122825.jpg">
-    <img class="thumbnail" src="
+    <img class="thumbnail" src="https://github.com/mbuvitheresia1-rgb/clarefaith/blob/main/Screenshot_20251106-075458_YouTube.jpg">
     <img class="thumbnail" src="
 
     </p>
